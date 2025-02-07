@@ -1,15 +1,20 @@
 # 👋 Hi, I'm Jiaming Qu!
 🚀 Security Engineer | SOC Analyst | Cybersecurity Enthusiast  
 
-🛡 **Certifications:** Security+ | ISC2 CC | GSEC (in progress)  
-🖥 **Experienced with:** Splunk | Palo Alto | CrowdStrike | Wireshark | SIEM | IDS/IPS  
-🎯 **Currently learning:** Threat Hunting | Purple Teaming | IAM Security  
+🛡 **Certifications:** Google Cybersecurity | AWS Cloud Practitioner | Security+ (in progress)  
+🖥 **Experienced with:** Splunk | Palo Alto Firewalls | CrowdStrike | Wireshark | SIEM | IDS/IPS | MITRE ATT&CK  
+☁️ **Cloud Security:** AWS | Azure AD | Google Cloud (GCP)  
+🔧 **Programming:** Python | PowerShell | SQL | Java | PHP  
+
+📍 Based in **New York, NY** | Open to **cybersecurity collaborations**  
+
+---
 
 ## 🔭 I’m currently working on  
-- **Threat Detection & Response** using SIEM (Splunk, Elastic, Graylog)  
-- **Security Automation** with Python & PowerShell  
+- **Threat Detection & Response** using Splunk, Palo Alto Firewalls, and IDS/IPS  
+- **Security Automation & Scripting** (Python & PowerShell for log analysis & threat detection)  
 - **Developing Incident Response Playbooks** for SOC operations  
-- **Studying for GSEC certification** to deepen my cybersecurity expertise
+- **Studying for GSEC certifications** 
 
 ---
 
