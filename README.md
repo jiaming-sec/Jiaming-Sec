@@ -44,6 +44,10 @@
 📩 **Email:** [jiamingqu0728@gmail.com]  
 💼 **LinkedIn:** [[linkedin.com/in/jiamingqu](https://www.linkedin.com/in/jiaming-qu996/)]
 🌐 **Portfolio:** [Coming soon...]  
+📩 **Email:** [YourEmail@domain.com]  
+💼 **LinkedIn:** [linkedin.com/in/jiamingqu](https://linkedin.com/in/jiamingqu)  
+🐦 **Twitter:** [twitter.com/jiamingqu](https://twitter.com/jiamingqu)  
+🌐 **Portfolio:** [Coming soon...] 
 
 ---
 
