@@ -26,14 +26,14 @@
 
 ## 👯 I’m looking to collaborate on  
 - Open-source **SOC/Incident Response Playbooks**  
-- Cybersecurity awareness & training initiatives  
-- **Threat Intelligence & Malware Analysis** projects  
+- **Cybersecurity awareness & training initiatives**  
+- **Threat Intelligence, Malware Analysis & SIEM automation**  
 
 ---
 
 ## 🤔 I’m looking for help with  
-- **Expanding my Purple Teaming skills** (Defensive + Offensive Security)  
-- **Contributing to Open-Source Security Projects** like OWASP & MITRE ATT&CK  
+- Expanding my **Purple Teaming skills** (Defensive + Offensive Security)  
+- Contributing to **Open-Source Security Projects** (OWASP, MITRE ATT&CK, Sigma Rules)  
 
 ---
 
@@ -41,6 +41,7 @@
 - **Security Operations & Incident Response (SOC/IR)**  
 - **SIEM Log Analysis & Threat Detection**  
 - **Firewall & Network Security Best Practices**  
+- **Threat Hunting & Digital Forensics Investigations**  
 
 ---
 
