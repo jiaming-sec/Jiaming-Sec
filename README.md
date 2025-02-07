@@ -24,7 +24,7 @@
 
 ---
 
-## 👯 I’m looking to collaborate on  
+## 🤝 I’m looking to collaborate on  
 - Open-source **SOC/Incident Response Playbooks**  
 - **Cybersecurity awareness & training initiatives**  
 - **Threat Intelligence, Malware Analysis & SIEM automation**  
