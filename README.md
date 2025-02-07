@@ -27,6 +27,34 @@
 
 ---
 
+## 🤔 I’m looking for help with  
+- **Expanding my Purple Teaming skills** (Defensive + Offensive Security)  
+- **Contributing to Open-Source Security Projects** like OWASP & MITRE ATT&CK  
+
+---
+
+## 💬 Ask me about  
+- **Security Operations & Incident Response (SOC/IR)**  
+- **SIEM Log Analysis & Threat Detection**  
+- **Firewall & Network Security Best Practices**  
+
+---
+
+## 📫 How to reach me  
+📩 **Email:** [jiamingqu0728@gmail.com]  
+💼 **LinkedIn:** [[linkedin.com/in/jiamingqu](https://www.linkedin.com/in/jiaming-qu996/)]
+🌐 **Portfolio:** [Coming soon...]  
+
+---
+
+## 😄 Pronouns  
+She/Her  
+
+---
+
+## ⚡ Fun fact  
+🏍 I love riding motorcycles in my free time!  
+
 <!--
 **jiaming-sec/Jiaming-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
