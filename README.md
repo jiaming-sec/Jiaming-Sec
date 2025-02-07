@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Jiaming Qu!
 🚀 Security Engineer | SOC Analyst | Cybersecurity Enthusiast  
 
-🛡 **Certifications:** Google Cybersecurity | AWS Cloud Practitioner | Security+ (in progress)  
+🛡 **Certifications:** CompTIA Security+ | Google Cybersecurity | AWS Cloud Practitioner  
 🖥 **Experienced with:** Splunk | Palo Alto Firewalls | CrowdStrike | Wireshark | SIEM | IDS/IPS | MITRE ATT&CK  
 ☁️ **Cloud Security:** AWS | Azure AD | Google Cloud (GCP)  
 🔧 **Programming:** Python | PowerShell | SQL | Java | PHP  
-
 📍 Based in **New York, NY** | Open to **cybersecurity collaborations**  
 
 ---
@@ -19,9 +18,9 @@
 ---
 
 ## 🌱 I’m currently learning  
-- **Advanced Threat Hunting** (MITRE ATT&CK, Sigma rules, YARA)  
+- **Advanced Threat Hunting & Digital Forensics** (MITRE ATT&CK, Sigma rules, YARA)  
 - **Identity & Access Management (IAM)** (Okta, SailPoint)  
-- **Network Security & Firewall Optimization** (Palo Alto, Cisco ASA)  
+- **Cloud Security (AWS, Azure, GCP) & Zero Trust Architecture**  
 
 ---
 
