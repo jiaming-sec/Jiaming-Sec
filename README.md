@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I'm Jiaming Qu!
+🚀 Security Engineer | SOC Analyst | Cybersecurity Enthusiast  
+
+🛡 **Certifications:** Security+ | ISC2 CC | GSEC (in progress)  
+🖥 **Experienced with:** Splunk | Palo Alto | CrowdStrike | Wireshark | SIEM | IDS/IPS  
+🎯 **Currently learning:** Threat Hunting | Purple Teaming | IAM Security  
 
 <!--
 **jiaming-sec/Jiaming-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
