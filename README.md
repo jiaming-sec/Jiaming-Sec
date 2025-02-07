@@ -5,6 +5,22 @@
 🖥 **Experienced with:** Splunk | Palo Alto | CrowdStrike | Wireshark | SIEM | IDS/IPS  
 🎯 **Currently learning:** Threat Hunting | Purple Teaming | IAM Security  
 
+## 🔭 I’m currently working on  
+- **Threat Detection & Response** using SIEM (Splunk, Elastic, Graylog)  
+- **Security Automation** with Python & PowerShell  
+- **Developing Incident Response Playbooks** for SOC operations  
+- **Studying for GSEC certification** to deepen my cybersecurity expertise
+
+---
+
+## 🔭 I’m currently working on  
+- **Threat Detection & Response** using SIEM (Splunk, Elastic, Graylog)  
+- **Security Automation** with Python & PowerShell  
+- **Developing Incident Response Playbooks** for SOC operations  
+- **Studying for GSEC certification** to deepen my cybersecurity expertise  
+
+---
+
 <!--
 **jiaming-sec/Jiaming-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
