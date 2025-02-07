@@ -41,9 +41,8 @@
 ---
 
 ## 📫 How to reach me  
-📩 **Email:** [jiamingqu0728@gmail.com]  
-💼 **LinkedIn:** [linkedin.com/in/jiaming-qu996](https://www.linkedin.com/in/jiaming-qu996/) 
-
+📩 **Email:** jiamingqu0728@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/jiaming-qu996](https://www.linkedin.com/in/jiaming-qu996/)      
 🌐 **Portfolio:** [Coming soon...] 
 
 ---
