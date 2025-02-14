@@ -52,11 +52,6 @@
 
 ---
 
-## 😄 Pronouns  
-He/Him 
-
----
-
 ## ⚡ Fun fact  
 🏍 I love riding motorcycles in my free time!  
 
