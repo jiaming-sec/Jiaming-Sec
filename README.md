@@ -5,7 +5,7 @@
 🖥 **Experienced with:** Splunk | Palo Alto Firewalls | CrowdStrike | Wireshark | SIEM | IDS/IPS | MITRE ATT&CK  
 ☁️ **Cloud Security:** AWS | Azure AD | Google Cloud (GCP)  
 🔧 **Programming:** Python | PowerShell | SQL | Java | PHP  
-📍 Based in **New York, NY** | Open to **cybersecurity collaborations**  
+📍 Based in **United States** | Open to **cybersecurity collaborations**  
 
 ---
 
