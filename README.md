@@ -1,54 +1,20 @@
-# 👋 Hi, I'm Jiaming Qu!
-🚀 Security Engineer | SOC Analyst | Cybersecurity Enthusiast  
+## Jiaming Qu | Security Engineer 
+**📧 Contact:** [Email](mailto:jiamingqu0728@gmail.com) | [LinkedIn](https://linkedin.com/in/jiaming-qu996/) 
 
-🛡 **Certifications:** CompTIA Security+ | Google Cybersecurity | AWS Cloud Practitioner  
-🖥 **Experienced with:** Splunk | Palo Alto Firewalls | CrowdStrike | Wireshark | SIEM | IDS/IPS | MITRE ATT&CK  
-☁️ **Cloud Security:** AWS | Azure AD | Google Cloud (GCP)  
-🔧 **Programming:** Python | PowerShell | SQL | Java | PHP  
-📍 Based in **United States** | Open to **cybersecurity collaborations**  
+### 🚀 About Me
+
+I am a **Security Engineer** with experience in **cybersecurity operations, incident response, network defense, and cloud security**. I specialize in automating security workflows, optimizing threat detection, and implementing IAM best practices. With a strong foundation in **Python scripting, Splunk SIEM, AWS security, and forensic analysis**, I am passionate about strengthening cybersecurity resilience through automation and proactive defense strategies.
 
 ---
 
-## 🔭 I’m currently working on  
-- **Threat Detection & Response** using Splunk, Palo Alto Firewalls, and IDS/IPS  
-- **Security Automation & Scripting** (Python & PowerShell for log analysis & threat detection)  
-- **Developing Incident Response Playbooks** for SOC operations  
-- **Studying for GSEC certifications** 
+### 🛠️ Technical Skills
 
----
-
-## 🌱 I’m currently learning  
-- **Advanced Threat Hunting & Digital Forensics** (MITRE ATT&CK, Sigma rules, YARA)  
-- **Identity & Access Management (IAM)** (Okta, SailPoint)  
-- **Cloud Security (AWS, Azure, GCP) & Zero Trust Architecture**  
-
----
-
-## 🤝 I’m looking to collaborate on  
-- Open-source **SOC/Incident Response Playbooks**  
-- **Cybersecurity awareness & training initiatives**  
-- **Threat Intelligence, Malware Analysis & SIEM automation**  
-
----
-
-## 🤔 I’m looking for help with  
-- Expanding my **Purple Teaming skills** (Defensive + Offensive Security)  
-- Contributing to **Open-Source Security Projects** (OWASP, MITRE ATT&CK, Sigma Rules)  
-
----
-
-## 💬 Ask me about  
-- **Security Operations & Incident Response (SOC/IR)**  
-- **SIEM Log Analysis & Threat Detection**  
-- **Firewall & Network Security Best Practices**  
-- **Threat Hunting & Digital Forensics Investigations**  
-
----
-
-## 📫 How to reach me  
-📩 **Email:** jiamingqu0728@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/jiaming-qu996](https://www.linkedin.com/in/jiaming-qu996/)      
-🌐 **Portfolio:** [Coming soon...] 
+- **Security Operations:** Splunk, Palo Alto Firewalls, CrowdStrike, FireEye, IDS/IPS (Snort), SOAR, OWASP ZAP  
+- **Programming & Scripting:** Python, PowerShell, SQL, Java, PHP  
+- **Cloud Security:** AWS IAM, AWS GuardDuty, Azure Active Directory, Google Cloud Platform (GCP)  
+- **Networking & Forensics:** Wireshark, TCP/IP, HTTPS, SSH, Packet Analysis  
+- **Security Frameworks:** MITRE ATT&CK, NIST CSF, Cyber Kill Chain, Threat Hunting  
+- **Other:** Red/Blue Teaming, Risk Management, Vulnerability Assessment, Git, CI/CD Security  
 
 ---
 
