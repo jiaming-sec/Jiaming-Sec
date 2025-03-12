@@ -18,6 +18,21 @@ I am a **Security Engineer** with experience in **cybersecurity operations, inci
 
 ---
 
+### 📌 Work Experience
+
+#### 👉 **Security Engineer** | *George Washington University* | *July 2024 – Present*
+- Automated **abuse investigation workflows** using **Python & Splunk**, reducing triage time by **60%**.
+- Migrated university applications to **AWS**, enhancing security with **IAM hardening** and **GuardDuty monitoring**.
+- Optimized **Splunk threat detection**, reducing false positives by **20%**.
+- Conducted forensic investigations using **Palo Alto Cortex XDR, Wireshark, and Splunk**.
+
+#### 👉 **Network Security Engineer** | *Virginia University of Science and Technology* | *Feb 2022 – May 2023*
+- Developed **Python scripts** for firewall log parsing, triggering **automated Splunk queries** for real-time threat detection.
+- Led **threat modeling efforts** (STRIDE, DREAD), identifying security gaps in university applications.
+- Strengthened **IAM security**, reducing unauthorized login attempts by **30%**.
+
+---
+
 ## ⚡ Fun fact  
 🏍 I love riding motorcycles in my free time!  
 
