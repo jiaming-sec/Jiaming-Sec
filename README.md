@@ -33,6 +33,14 @@ I am a **Security Engineer** with experience in **cybersecurity operations, inci
 
 ---
 
+### 📜 Certifications
+
+- **CompTIA Security+ (2025)**
+- **Google Cybersecurity Certificate (2024)**
+- **AWS Certified Cloud Practitioner (2021)**
+
+---
+
 ## ⚡ Fun fact  
 🏍 I love riding motorcycles in my free time!  
 
