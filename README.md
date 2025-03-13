@@ -9,13 +9,14 @@ I am a **Security Engineer** with experience in **cybersecurity operations, inci
 
 ### 🛠️ Technical Skills
 
-- **Security Operations:** Splunk, Palo Alto Firewalls, CrowdStrike, FireEye, IDS/IPS (Snort), SOAR, OWASP ZAP  
-- **Programming & Scripting:** Python, PowerShell, SQL, Java, PHP  
-- **Cloud Security:** AWS IAM, AWS GuardDuty, Azure Active Directory, Google Cloud Platform (GCP)  
-- **Networking & Forensics:** Wireshark, TCP/IP, HTTPS, SSH, Packet Analysis  
-- **Security Frameworks:** MITRE ATT&CK, NIST CSF, Cyber Kill Chain, Threat Hunting  
-- **Other:** Red/Blue Teaming, Risk Management, Vulnerability Assessment, Git, CI/CD Security  
-
+| **Category**           | **Tools & Technologies** |
+|----------------------|----------------------|
+| **Security Operations** | Splunk, Palo Alto Firewalls, CrowdStrike, FireEye, IDS/IPS (Snort), SOAR, OWASP ZAP |
+| **Programming & Scripting** | Python, PowerShell, SQL, Java, PHP |
+| **Cloud Security** | AWS IAM, AWS GuardDuty, Azure Active Directory, Google Cloud Platform (GCP) |
+| **Networking & Forensics** | Wireshark, TCP/IP, HTTPS, SSH, Packet Analysis |
+| **Security Frameworks** | MITRE ATT&CK, NIST CSF, Cyber Kill Chain, Threat Hunting |
+| **Other** | Red/Blue Teaming, Risk Management, Vulnerability Assessment, Git, CI/CD Security |
 ---
 
 ### 📌 Work Experience
