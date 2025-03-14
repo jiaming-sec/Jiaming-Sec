@@ -34,6 +34,14 @@ I am a **Security Engineer** with experience in **cybersecurity operations, inci
 
 ---
 
+## 🔬 Featured Projects  
+
+### 🔹 Wireshark for Network Analysis & Security (*Oct 2024 – Dec 2024*)  
+- 📡 Analyzed **live network traffic** to identify **malicious DNS queries** and suspicious traffic patterns.
+- 📊 Integrated findings with **Splunk dashboards** for real-time **network anomaly detection**.
+- ⚙️ Developed **automated packet analysis scripts** using `tshark`, reducing incident response time.
+
+  
 ### 📜 Certifications
 
 - **CompTIA Security+ (2025)**
