@@ -41,6 +41,10 @@ I am a **Security Engineer** with experience in **cybersecurity operations, inci
 - 📊 Integrated findings with **Splunk dashboards** for real-time **network anomaly detection**.
 - ⚙️ Developed **automated packet analysis scripts** using `tshark`, reducing incident response time.
 
+### 🔹 University Security Risk Assessment (*Jul 2022 – Sep 2022*)  
+- 🏛️ Conducted a **university-wide security risk assessment** using **NIST CSF**, evaluating **50+ IT assets**.
+- 🔎 Performed **proactive vulnerability scanning** using **Nmap & OpenVAS**.
+- 🔐 Recommended security enhancements, leading to **implementation of facial recognition access controls**.
   
 ### 📜 Certifications
 
