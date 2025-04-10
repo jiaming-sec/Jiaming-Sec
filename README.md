@@ -6,6 +6,7 @@
 Security engineer with hands-on experience securing cloud environments, applications, and enterprise networks. Specializing in cloud security (AWS, Azure AD), application security (OWASP Top 10, SAST/DAST), IAM, CI/CD security, threat modeling (STRIDE, DREAD), and threat detection.
 
 Proven ability to automate incident response, strengthen security posture, and collaborate across teams to drive secure development practices. Known for being detail-oriented, solutions-focused, and effective in fast-paced, cross-functional environments.
+
 ---
 
 ## ⚡ Fun fact  
